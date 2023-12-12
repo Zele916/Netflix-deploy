@@ -1,0 +1,12 @@
+.navbar-nav {
+    display: flex;
+    margin-left: 40px;
+    margin-right: 80px;
+    justify-content: space-between;
+    
+}
+
+.navbar-nav ul {
+ 
+    list-style: none;
+}

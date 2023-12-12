@@ -1,0 +1,37 @@
+/* to minimize the pictures */
+.row__poster {
+    width: 100%;
+    object-fit:contain;
+    max-height: 100px;
+    transition: transform 450ms;
+    margin-right: 10px;
+}
+/* simeta on y axis or vertically kehone wede gon endihone plus scroll argo lemayet */
+.row__posters {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+}
+/* scroller bar'un lematfat */
+.row__posters::-webkit-scrollbar {
+    display: none;    
+}
+/* imagu lay hover sideteg yemitay  */
+.row__poster:hover {
+   transform: scale(1.08);
+}
+/* to make the first row of images larger */
+.row__posterLarge {
+    max-height: 250px;
+}
+.row__posterLarge:hover {
+    transform: scale(1.09);
+}
+/* titlochun ke left cornet tinishe lemalakek */
+.row {
+    margin-left: 30px;
+    color: white;
+}
+
+
