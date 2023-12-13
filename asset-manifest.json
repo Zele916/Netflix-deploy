@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netflix-deploy/static/css/main.559bc0ae.css",
+    "main.js": "/Netflix-deploy/static/js/main.de1d4669.js",
+    "static/media/Netflix-Logo.wine.png": "/Netflix-deploy/static/media/Netflix-Logo.wine.29a09085bf0619703051.png",
+    "index.html": "/Netflix-deploy/index.html",
+    "main.559bc0ae.css.map": "/Netflix-deploy/static/css/main.559bc0ae.css.map",
+    "main.de1d4669.js.map": "/Netflix-deploy/static/js/main.de1d4669.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.559bc0ae.css",
+    "static/js/main.de1d4669.js"
+  ]
+}
